@@ -1,2 +1,3 @@
 This is the test txt.
 Creating a new branch is quick and simple.
+Test of quick merge.
