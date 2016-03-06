@@ -1,2 +1,2 @@
 This is the test txt.
-Creating a new branch txt.
+Creating a new branch is quick AND simple.
